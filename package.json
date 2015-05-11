@@ -1,0 +1,20 @@
+{
+  "name": "mean-stack-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "cookie-parser": "^1.3.4",
+    "debug": "^2.2.0",
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "mongojs": "^0.18.2",
+    "morgan": "^1.5.3"
+  }
+}
